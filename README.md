@@ -1,7 +1,8 @@
 # classProject
 
 Due : 12/11(mon)
-Email : heyharuna0221@gmail.com
+Email : heyharuna0221@gmail.com(Haruna Hei)
+        tkc4822@gmail.com(Takeshi Oide)
 
 
 Contents
